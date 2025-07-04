@@ -15,7 +15,7 @@ A lightweight C++ game engine with custom ECS architecture and efficient 2D rend
   - Dijkstra's algorithm implementation
 - **Rendering**
   - Tilemap system with layer support
-  - Particle effects (fire/smoke/magic)
+  - Effects running by animation (fire/smoke)
 - **Audio**
   - Multi-channel mixer with positional sound
 
