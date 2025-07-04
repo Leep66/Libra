@@ -1,0 +1,29 @@
+﻿<GameConfig
+	projectName="SD1-A7: Libra Playable"
+	startLevel="First"
+	windowAspect="2.0"
+	screenWidth="1600.0"
+	screenHeight="800.0"
+	isFullscreen="false"
+	
+	entityBaseRadius="0.4"
+	entityTurretRadius="0.6"
+	entityTurretSize="1.4"
+	entityBulletSpeed="3.0"
+	
+	playerHealth="30"
+	playerMoveSpeed="1.0"
+	playerTurnSpeed="180.0"
+	playerBulletSpeed="3.0"
+	
+	enemyMoveSpeed="0.5"
+	enemyTurnSpeed="120.0"
+	enemyRaycastLength="0.9"
+	enemyViewRange="10.f"
+	enemyBulletSpeed="2.0"
+	
+	scorpioHealth="5"
+	leoHealth="5"
+	ariesHealth="3"
+	
+/>
